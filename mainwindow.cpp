@@ -31,7 +31,7 @@
 #include <QString>
 #include <QDebug>
 
-#include <razorqt/razorsettings.h>
+#include <lxqt/lxqtsettings.h>
 #include "mainwindow.h"
 #include "loginform.h"
 
